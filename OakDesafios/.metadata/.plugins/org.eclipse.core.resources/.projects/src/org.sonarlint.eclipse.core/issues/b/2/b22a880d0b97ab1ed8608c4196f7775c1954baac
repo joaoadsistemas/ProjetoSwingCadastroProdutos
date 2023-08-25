@@ -1,0 +1,31 @@
+
+z
+java:S1192I"GDefine a constant instead of duplicating this literal "Tahoma" 7 times.(©ÉûíüÿÿÿÿHRCRITICALZ
+CODE_SMELL
+X
+java:S1604'"(Make this anonymous inner class a lambda(¤©ÒâüÿÿÿÿHRMAJORZ
+CODE_SMELL
+T
+java:S1604ˆ"(Make this anonymous inner class a lambda(Şñ¦æHRMAJORZ
+CODE_SMELL
+T
+java:S1604°"(Make this anonymous inner class a lambda(É±â§HRMAJORZ
+CODE_SMELL
+|	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°––ÇÿÿÿÿÿHRMINORZ
+CODE_SMELL
+c
+java:S2589œ"7Remove this expression which always evaluates to "true"(ÕÍ’„HRMAJORZ
+CODE_SMELL
+k
+java:S32529"=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(®Ğ–HRCRITICALZ
+CODE_SMELL
+|
+java:S3252;"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿHRCRITICALZ
+CODE_SMELL
+U
+java:S1128
+"*Remove this unused import 'model.Produto'.(Ğ‚ìÈH RMINORZ
+CODE_SMELL
+_
+java:S1128"4Remove this unused import 'javax.swing.JOptionPane'.(÷‰ÎéH"RMINORZ
+CODE_SMELL
