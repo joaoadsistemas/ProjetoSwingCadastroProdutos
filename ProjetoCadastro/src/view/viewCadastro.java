@@ -39,7 +39,7 @@ public class viewCadastro extends JFrame {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
-					ProdutoController controller = new ProdutoController(); // Crie a instância do controlador aqui
+					ProdutoController controller = new ProdutoController(); // Criei a instância do controlador aqui
 		            viewCadastro frame = new viewCadastro(controller); //
 
 					frame.setVisible(true);
