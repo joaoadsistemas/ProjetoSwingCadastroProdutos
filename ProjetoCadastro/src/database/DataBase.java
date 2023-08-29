@@ -15,7 +15,7 @@ public class DataBase {
 	protected static final String DATABASE_URL = "jdbc:mysql://localhost:3306/products?user=root&password=B1234hj1%2326346";
 
 	protected static void createTable(Connection connection) throws SQLException {
-	    Statement statement = connection.createStatement();
+	    Statement statement = connection.createStatement(); 
 	    
 	    String createTableQuery = "CREATE TABLE IF NOT EXISTS Produtos (" +
 	                              "id INT AUTO_INCREMENT PRIMARY KEY, " +
